@@ -3,3 +3,6 @@
 <h2 align="center">HU-Course-Schedule-Generator</h2>
 
 <p align="center">Project Partners: Anand Kumar, Syed Abbas Haider, Hammad Mukhtar</p>
+
+### Requirements:
+Tkinter, Pillow, Python3
