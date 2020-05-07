@@ -5,4 +5,4 @@
 <p align="center">Project Partners: Anand Kumar, Syed Abbas Haider, Hammad Mukhtar</p>
 
 ### Requirements:
-Tkinter, Pillow, Python3
+Tkinter, TkTreectrl, Pillow, Python3
